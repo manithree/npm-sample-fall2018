@@ -1,0 +1,23 @@
+{
+  "name": "npm-sample-fall2018",
+  "version": "1.0.0",
+  "description": "An app for us to learn how to NPM all the things",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josh-Kearl/npm-sample-fall2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josh-Kearl/npm-sample-fall2018/issues"
+  },
+  "homepage": "https://github.com/Josh-Kearl/npm-sample-fall2018#readme",
+  "devDependencies": {
+    "jasmine": "^3.2.0",
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
